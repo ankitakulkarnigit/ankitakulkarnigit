@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Ankita</h1>
+<h1 align="center">Hi there 👋, I'm Ankita</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working with **React, Python, Gen AI, Image Recognition, Node.js**
