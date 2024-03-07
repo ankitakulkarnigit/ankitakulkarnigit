@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kulkarniankita555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kulkarniankita555/" height="30" width="40" /></a>
-<a href="https://www.behance.net/ankita.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ankita.ai" height="30" width="40" /></a>
+<a href="https://www.becons.ai/ankita.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/beacon.svg" alt="ankita.ai" height="30" width="40" /></a>
 <a href="https://medium.com/@kulkarniankita555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kulkarniankita555" height="30" width="40" /></a>
 </p>
 
