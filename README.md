@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **React, Python, Gen AI, Image Recognition, Node.js**
 
-- 🌱 I’m currently preparing for **AWS Cloud Practitioner Certification, Node.js**
+- 🌱 I’m currently preparing for **AWS Cloud Practitioner Certification**
 
 - 🤝 I’m looking for a new opportunity in **Software Engineering/ Full Stack Development roles**
 
