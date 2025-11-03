@@ -16,7 +16,7 @@
 
 📫 Reach me at **kulkarniankita555@gmail.com**  
 
-📄 Here’s my [Resume](https://ankitakulkarnigit.github.io/docs/Resume_Ankita_Kulkarni.pdf) 🔗  
+📄 Here’s my [Resume](https://ankitakulkarnigit.github.io/packages/docs/Resume_Ankita_Kulkarni.pdf) 🔗  
 
 
 <h3 align="left">Let’s Connect:</h3> <p align="left"> <a href="https://www.linkedin.com/in/kulkarniankita555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://www.beacons.ai/ankita.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Beacons" height="30" width="40" /></a> <a href="https://medium.com/@kulkarniankita555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a> </p>
